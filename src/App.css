@@ -13,9 +13,11 @@
   height: 5%;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .headertext {
+  width: 100%;
   color: #f0f0f0;
   font-size: 1rem;
   font-family: sans-serif;
@@ -51,6 +53,7 @@
 }
 .selectedimagetitle {
   padding: auto;
+  width: 100%;
   text-align: center;
   color: #f0f0f0;
   font-family: sans-serif;
