@@ -1,4 +1,3 @@
- [Website](https://filter-pixel.netlify.app/)
 # Filter Pixel - Frontend
 
 Welcome to the Filter Pixel frontend repository!
@@ -9,5 +8,5 @@ Filter Pixel is a web application that allows users to view and manipulate image
 
 ## Website
 
-Visit the Filter Pixel website: [Filter Pixel Website](https://filter-pixel.netlify.app/)
+Visit the Filter Pixel website: [Website](https://filter-pixel.netlify.app/)
 
