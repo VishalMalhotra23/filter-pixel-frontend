@@ -1,12 +1,12 @@
 # Filter Pixel - Frontend
 
-Welcome to the Filter Pixel frontend repository!
+Welcome to the ExifData Processing frontend repository!
 
 ## Project Overview
 
-Filter Pixel is a web application that allows users to view and manipulate images. This repository contains the frontend codebase.
+It is a web application that allows users to view and manipulate images. This repository contains the frontend codebase.
 
 ## Website
 
-Visit the Filter Pixel website: [Website](https://filter-pixel.netlify.app/)
+Visit the ExifData Processing website: [Website](https://filter-pixel.netlify.app/)
 
